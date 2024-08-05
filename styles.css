@@ -165,7 +165,7 @@ body{
     }
 
     .register,.login,.contenedor{
-        max-height: 90vh;
+        max-height: min(90vh,900px);
     }
     
 }
